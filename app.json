@@ -2,7 +2,7 @@
     "name": "Calls Music Remix",
     "description": "Stream in Telegram calls using GramTGCalls.",
     "keywords": ["telegram", "music", "gram-tgcalls", "tgcallsjs", "gramjs"],
-    "repository": "https://github.com/callsmusic/CallsMusicRemix",
+    "repository": "https://github.com/burakizm/vcbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token from @BotFather.",
