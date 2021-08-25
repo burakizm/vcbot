@@ -1,5 +1,5 @@
 {
-    "name": "Calls Music Remix",
+    "name": "burakizm vc bot",
     "description": "Stream in Telegram calls using GramTGCalls.",
     "keywords": ["telegram", "music", "gram-tgcalls", "tgcallsjs", "gramjs"],
     "repository": "https://github.com/burakizm/vcbot",
