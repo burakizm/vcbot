@@ -34,7 +34,7 @@ npm start
 
 ## Deploying to the cloud
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/CallsMusicRemix)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/burakizm/vcbot)
 
 ## Configuring
 
